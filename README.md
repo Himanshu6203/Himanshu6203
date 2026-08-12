@@ -68,3 +68,8 @@ Currently, I’m deepening this approach through projects around **Customer Life
 <img src="https://img.shields.io/badge/Agile-2563EB?style=for-the-badge" />
 
 </p>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Himanshu6203/Himanshu6203/blob/output/github-snake-dark.svg)
+</div>
